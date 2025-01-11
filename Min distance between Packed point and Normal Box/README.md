@@ -35,4 +35,4 @@ Next, in the `Hausdorff_AVX` function, the aforementioned masks are checked, and
 
 The code using AVX-512 is implemented similarly to the code in pure C++, with vector instructions speeding it up from ~13ns to ~6ns.
 
-The project was completed by Dmitry Volkovets and Mikhail Naumovich, FPMI BSU, 1st course, 1st group, 2023/2024.
+The project was completed by Dmitry Volkovets and Mikhail Naumovich, FAMCS BSU, 1st course, 1st group, 2023/2024.
