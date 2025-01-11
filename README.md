@@ -1,1 +1,1 @@
-# Minimal distance berween Packed Point and Normal Box
+Minimal distance between Packed Point and Normal Box
